@@ -1,0 +1,620 @@
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 67
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 67
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 67
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 67
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 67
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 67
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 64
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 64
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 64
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 64
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 65
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\Form1.cs Line 66
+FeatureEnvyDetector	WARN	 PowerPoint.Form1 envy PowerPoint.ViewModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetCurrentMode
+FeatureEnvyDetector	WARN		SelectedShape
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 92
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 159
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		GetPoint1
+FeatureEnvyDetector	WARN		SetPoint1
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 164
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Shape
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		GetPoint2
+FeatureEnvyDetector	WARN		SetPoint2
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\USER\Desktop\視窗程式設計\PowerPoint-main\PowerPoint-main\PowerPoint\ViewModel.cs Line 165
+FeatureEnvyDetector	WARN	 PowerPoint.ViewModel envy PowerPoint.Position
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		X
+FeatureEnvyDetector	WARN		Y
+FeatureEnvyDetector	WARN		Y
